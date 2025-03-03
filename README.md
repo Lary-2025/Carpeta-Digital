@@ -1,1 +1,19 @@
-# Carpeta-Digital
+- Proyecto Competencias Digitales/
+  - 01_Portada/
+      - portada.pdf
+  - 02_Objetivos/
+      - objetivos.docx
+  - 03_Plan_de_Estudio/
+      - plan_estudio.pptx
+      - itinerarios_formativos.pdf
+  - 04_Metodología/
+      - metodologia.docx
+  - 05_Materiales/
+      - materiales.pdf
+      - actividades_prácticas.xlsx
+      - ejemplos_visuales.png
+  - 06_Evaluaciones/
+      - evaluaciones_inicial.docx
+      - evaluaciones_final.docx
+  - 07_Anexos/
+      - agradecimientos.docx
